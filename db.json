@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Lenovo IdeaPad Slim 1 AMD Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home)",
+      "brand": "Lenevo",
+      "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/08/500-laptops-asus-vivobook-f510ua.jpg",
+      "description": "Lenovo IdeaPad Slim 3 12th Gen Intel Core i5-12450H 15.6 inch (39.6cm) FHD Laptop (16GB RAM/512GB SSD/Windows 11/Office Home 2024/1Yr ADP Free/Grey/1.62Kg)",
+      "price": 51999
+    },
+    {
+      "id": "2",
+      "name": "HP Smart All In One 589 Multi-function WiFi Color Ink Tank Printer for Print/Scan/Copy",
+      "brand": "HP",
+      "image": "https://m.media-amazon.com/images/I/61lOXJvkxsL._AC_UF1000,1000_QL80_.jpg",
+      "description": "You can conveniently print documents, images, and assignments with the help of the HP Smart Tank 589 All-in-one Colour Printer. Thanks to its hassle-free mobile setup, two-sided printing, guided buttons, low-ink sensors, self-healing Wi-Fi, and high-quality printouts",
+      "price": 12999
+    },
+    {
+      "id": "6fc0",
+      "name": "ZEBRONICS Zeb-K20 / Zeb-K65 Wired USB Standard Desktop Keyboard Compatible with Desktop, Laptop, Mac UV Coated Keys, USB Interface, Retractable Stand, Plug and Play (Black)",
+      "brand": "ZEBRONICS",
+      "description": "It is excellent keyboard, quality is quite good all botton are clicky and very responsive.Generally i used it with my mobile redmi note 4 it works very fine ,Also this keyboard is used in my computer academy",
+      "image": "https://www.portronics.com/cdn/shop/files/Image1_22bc2b03-ea4b-4bd3-a84c-512cefb508fc.png?v=1718792091",
+      "price": "299"
+    },
+    {
+      "id": "f636",
+      "name": "Apple iPhone 16 (Black, 128 GB)",
+      "brand": "Apple",
+      "description": "iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48 MP Fusion camera. Five vibrant colours. And A18 chip.",
+      "image": "https://iplanet.one/cdn/shop/files/iPhone_16_Black_PDP_Image_Position_1__en-IN_6a3dc63f-e8f2-4111-811a-6d5d8e643038.jpg?v=1727247682",
+      "price": "69900"
+    },
+    {
+      "id": "f5bc",
+      "name": "RYSTA PRO Running Shoes For Men (Blue , 9)",
+      "brand": "CAMPUS",
+      "description": "Campus products come with a 30-day warranty from the date of purchase, as mentioned on the invoice.",
+      "image": "https://www.tracerindia.com/cdn/shop/files/05_4815a042-0c9f-4b23-9743-271036177b4d.jpg?v=1696926941&width=1946",
+      "price": "731"
+    },
+    {
+      "id": "4e4b",
+      "name": "boAt Type C 1.2 m A to C 65W (Compatible with AllDevices with Type-C Port, Carbon Black, Grey)",
+      "brand": "boat",
+      "image": "https://m.media-amazon.com/images/I/81AJqwJBV6L._SL1500_.jpg",
+      "description": " Power up at blazing 65W speed with the boAt Type A to C Fast Charging Cable built for those who dont have time to wait. Whether youare fuelling up your smartphone, tablet, or USB-C laptop, this cable is designed to support up to 65 W of fast charging. The 3.9 ft (1.2 m) cable length strikes the perfect balance between reach and convenience. Whether youare charging from your bedside table, at your work desk, or relaxing on the couch, the flexible length keeps your device within easy reach.",
+      "price": "219"
+    },
+    {
+      "id": "75dc",
+      "name": "Noise Buds VS104 Truly Wireless Earbuds with 45H of Playtime, Quad Mic with ENC, Instacharge(10 Min=200 Min), 13Mm Driver, Low Latency, BT V5.2 (Mint Green)",
+      "brand": "Noise",
+      "image": "https://m.media-amazon.com/images/I/51+e7yrgPpL._SX522_.jpg",
+      "description": "wireless earbuds to be budget-friendly and appreciate their sound quality. The battery backup receives mixed feedback - while some praise its long duration, others report poor performance. Moreover, functionality and connectivity are problematic, with reports of one-sided failure and connection issues. Comfort and noise level also draw mixed reactions, with some finding them extremely comfortable while others report ear pain, and while some like the noise cancellation, others find it disturbing.",
+      "price": "999"
+    },
+    {
+      "id": "46d3",
+      "name": "KLAPP BOY Champion Cricket KIT (Multicolour) PVC",
+      "brand": "klapp",
+      "image": "https://m.media-amazon.com/images/I/713f57lfa1L._SX679_.jpg",
+      "description": "1 Kashmir Willow Cricket Bat,1 Pair Pad, 1 Pair batting Gloves,1 Cricket Helmet,1 Thigh Pad, 1 Arm Guard,1 Abdominal Guard & 1 Kit Bag. Klapp, Klapp Sports, Opposite IDM ;Basti Nau; Jalandhar ;Punjab, India; Pin Code-144002 ;Mobile No-9888724263",
+      "price": "2699"
+    },
+    {
+      "id": "b03d",
+      "name": "Voltas 183 Vectra Pearl 1.5 ton 3 star Window AC|Energy Efficient|High ambient Cooling-cools even at 55°C",
+      "brand": "Voltas",
+      "image": "https://m.media-amazon.com/images/I/61Gh7WuatbL._SX679_.jpg",
+      "description": "Energy Rating: 3 Star | Energy Efficiency | Annual Energy Consumption 1185.93 kWh per year | Maximum cooling capacity: 4750W ISSER Value: 3.10. BEE Label Validity Period: 1st July 2022 - 31st Dec 2025. Note: The current star rating is based on the 2025 BEE guidelines. Under the new 2026 BEE guidelines (effective from 1st Jan 2026), this product will be rated one star lower.",
+      "price": "26490"
+    }
+  ]
+}
